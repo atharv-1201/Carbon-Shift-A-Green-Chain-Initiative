@@ -1,7 +1,10 @@
-! Name: ATHARV DWIVEDI | SHIVAM MITTAL | ARYAN SONAWANE
-! Email: ad5066@srmist.edu.in
-! Phone: 9930508007 | 9890884725 | 7307483504
+ Name: ATHARV DWIVEDI | SHIVAM MITTAL | ARYAN SONAWANE
+ <br>
+ Email: ad5066@srmist.edu.in
+ <br>
+ Phone: 9930508007 | 9890884725 | 7307483504
 
+ <br>
 
 # Carbon Shift: Trade Carbon Credit for prosperous and sustainable growth
 Blockchain-Powered Carbon Management leverages blockchain technology to ensure transparency, automate carbon credit systems, and facilitate carbon trading using XRC-20 tokens. The platform incorporates AI-driven predictive analysis for future emissions, token pooling, and a rewards system to incentivize participation. With a user-friendly interface, it promotes compliance with environmental regulations while increasing public awareness about carbon credits. By revolutionizing emissions management, this approach paves the way for a more sustainable future, offering real-time tracking, decentralized marketplaces, and incentivized contributions to reduce greenhouse gas emissions.
